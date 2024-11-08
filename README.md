@@ -12,6 +12,9 @@ https://growwth-backend-hnhc.onrender.com
 
 <img width="542" alt="Screenshot (348)" src="https://github.com/user-attachments/assets/d3b24862-70df-40af-b6e4-6eb3d4860dcd">
 
+
+<img width="932" alt="Screenshot 2024-11-08 153355" src="https://github.com/user-attachments/assets/20f96154-0430-42ec-b265-5e09f0b90d45">
+
 ## Features
 - Interact with a chatbot that understands financial data.
 - Query Profit and Loss and Balance Sheet details.
